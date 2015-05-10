@@ -2,3 +2,6 @@
 name = "intro-to-rust-for-web-devs"
 version = "0.1.0"
 authors = ["Bryan Yap <bryan.yap@alliants.com>"]
+
+[dependencies]
+rustc-serialize = "0.3"
