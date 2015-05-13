@@ -28,8 +28,8 @@ To check if the library is in working order, run the following commands:
 $ cargo run
 ```
 
-This should compile the simple “Hello World!” Rust example. To test the Ruby
-side of things, run the following command:
+This should compile and run the simple “Hello World!” Rust example. To test the
+Ruby side of things, run the following command:
 
 ```
 $ ruby ruby/code_breaker.rb
